@@ -1,0 +1,35 @@
+*{
+  padding:0;
+	margin:0;
+}
+
+body, article, header, nav, section, footer
+{
+	display: block;
+}
+
+ul
+{
+	list-style-type: none;
+}
+
+header{
+
+}
+
+nav{
+
+}
+
+body{
+
+}
+
+footer{
+
+}
+
+p1{
+  color: blue;
+  font-family: 'Source Sans Pro';
+}
